@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "weather-pwa-e91cb",
+    "default": "weather-pwa-e91cb"
+  }
+}
